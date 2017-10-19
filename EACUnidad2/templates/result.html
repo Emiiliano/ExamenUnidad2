@@ -1,0 +1,22 @@
+{% extends 'base.html'%}
+{% block body%}
+    <h2>{{titulo}}</h2>
+    <table>
+         <tr>
+            <td>Variables Ingresadas: </td>
+        </tr>
+         <tr>
+            <td>a: {{a}}</td>
+        </tr>
+         <tr>
+            <td>b: {{b}}</td>
+        </tr>
+         <tr>
+            <td>c: {{c}}</td>
+        </tr>
+        <tr>
+            <td>{{resultado}}</td>
+        </tr>
+    </table>
+    <p><a href="/entry">Calcular otro Volumen</a></p>
+{% endblock%}

@@ -1,0 +1,5 @@
+setup.py
+volumenyArea.egg-info/PKG-INFO
+volumenyArea.egg-info/SOURCES.txt
+volumenyArea.egg-info/dependency_links.txt
+volumenyArea.egg-info/top_level.txt
